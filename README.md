@@ -7,7 +7,8 @@
 ## 📊 Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Rhyan121121&show_icons=true&theme=dracula)  ![Linguagens Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhyan121121&layout=compact&theme=dracula&hide_border=true)
 
-<img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 🔗 Conecte-se Comigo
 
