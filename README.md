@@ -8,7 +8,6 @@
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Rhyan121121&show_icons=true&theme=dracula)
 
 
-## 💻 Linguagens Mais Usadas
 ![Linguagens Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhyan121121&layout=compact&theme=dracula&hide_border=true)
 
 
