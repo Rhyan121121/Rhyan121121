@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou Rhyan! 👋
 
-<!--
-**Rhyan121121/Rhyan121121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 🚀 Aprendendo e crescendo constantemente
 
-Here are some ideas to get you started:
+- 📖  Atualmente Aprendendo Java / Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Rhyan121121&show_icons=true&theme=dracula)
+
+
+## 💻 Linguagens Mais Usadas
+![Linguagens Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhyan121121&layout=compact&theme=dracula&hide_border=true)
+
+
+## 🔗 Conecte-se Comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rhyan-dos-anjos-andrade/) 
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhyanaa1211@gmail.com)
