@@ -6,7 +6,7 @@
 ---
 
 <a name="pt-br"></a>
-# 👋 Olá, eu sou o Rhyan Dos Anjos Andrade!
+# 👋 Olá, eu sou o Rhyan!
 
 💻 🚀 Apaixonado por tecnologia, sempre aprendendo e crescendo.
 
