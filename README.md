@@ -8,7 +8,7 @@
 <a name="pt-br"></a>
 # 👋 Olá, eu sou o Rhyan!
 
-💻 🚀 Apaixonado por tecnologia, sempre aprendendo e crescendo.
+💻 🚀
 
 ## 🧑‍💻 Sobre Mim
 
