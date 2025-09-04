@@ -8,7 +8,7 @@
 <a name="en-us"></a>
 # 👋 Hi, I’m Rhyan!
 
-💻 🚀 Passionate about technology, always learning and growing.
+💻 🚀 
 
 ## 🧑‍💻 About Me
 
