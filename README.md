@@ -12,8 +12,19 @@
 
 ## 🧑‍💻 Sobre Mim
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Fatec Araraquara  
-- 📚 Atualmente aprendendo **Java** e **Python**  
+Muito prazer eu sou o Rhyan !!! 
+
+Iniciei meu estudos em programação no ano de 2024, e atualmente me encontro na faculade de *Análise e Desenvolvimento de Sistemas* na instituição Fatec Araraquara,Atualmente minha principal Linguaguem é Python mas estou buscando sempre mais conhecimentos.
+
+Gosto muito da área de BackEnd, Dados e IA essas são as áreas que atualmente estudo e busco sempre melhorar para me desenvolver como Profissional e como Pessoa também. 
+
+Acredito que o conhecimento transforma por isso pra mim é muito importante estar em constante evolução e busca por projetos que agregem valor a sociedade e possa mudar uma parte do mundo. Graças a Programação posso fazer tudo o que eu tenho vontade
+por esse motivo essa área me encanta tanto. 
+
+Espero que se você chegou até aqui tenha se interessado pelo meu perfil fique a vontade para ver os repositórios e fazer Pull Requests e dar novas sugestões aos projetos.
+
+É uma prazer te ter aqui 😁💻!
+
 
 ---
 
@@ -25,10 +36,13 @@
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
+Linguagens e FrameWorks:
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+[![Linguaguens,FrameWorks](https://skillicons.dev/icons?i=py,git,github,flask)](https://skillicons.dev)
+
+Sistemas Operacionais: 
+
+[![Sistemas Operacionais](https://skillicons.dev/icons?i=linux,mint,arch,windows)](https://skillicons.dev)
 
 ---
 
