@@ -2,13 +2,11 @@
   <a href="#pt-br"><b>Português (PT-BR)</b></a> |
   <a href="README_Eng.md"><b>English (EN-US)</b></a>
 </p>
-
 ---
+
 
 <a name="pt-br"></a>
 # 👋 Olá, eu sou o Rhyan!
-
-💻 🚀
 
 ## 🧑‍💻 Sobre Mim
 
@@ -38,11 +36,15 @@ Espero que se você chegou até aqui tenha se interessado pelo meu perfil fique 
 ## 🛠️ Tecnologias e Ferramentas
 Linguagens e FrameWorks:
 
-[![Linguaguens,FrameWorks](https://skillicons.dev/icons?i=py,git,github,flask)](https://skillicons.dev)
+[![Linguaguens,FrameWorks](https://skillicons.dev/icons?i=py,git,github,flask,go)](https://skillicons.dev)
 
 Sistemas Operacionais: 
 
 [![Sistemas Operacionais](https://skillicons.dev/icons?i=linux,mint,arch,windows)](https://skillicons.dev)
+
+Versionamento de código:
+
+[![Versionamento de codigo](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 ---
 
@@ -52,8 +54,6 @@ Sistemas Operacionais:
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhyanaa1211@gmail.com)
 
 ---
-
-> “A jornada de mil quilômetros começa com o primeiro passo.” – Lao Tsé
 
 <p align="center">
   <a href="README_Eng.md">Read in English</a>
