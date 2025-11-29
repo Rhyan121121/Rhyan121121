@@ -1,60 +1,60 @@
 <p align="center">
-  <a href="#pt-br"><b>Português (PT-BR)</b></a> |
-  <a href="README_Eng.md"><b>English (EN-US)</b></a>
-</p>
----
 
+# 👋 Hi, I'm Rhyan!
 
-<a name="pt-br"></a>
-# 👋 Olá, eu sou o Rhyan!
+## 🧑‍💻 About Me
 
-## 🧑‍💻 Sobre Mim
+Nice to meet you — I'm Rhyan!
 
-Muito prazer eu sou o Rhyan !!! 
+I started studying programming in 2024, and I am currently enrolled in the Systems Analysis and Development program at Fatec Araraquara. My main interests are Backend, Data, and AI — these are the areas I study and continually work to improve in order to grow both professionally and personally.
 
-Iniciei meu estudos em programação no ano de 2024, e atualmente me encontro na faculade de *Análise e Desenvolvimento de Sistemas* na instituição Fatec Araraquara,Atualmente minha principal Linguaguem é Python mas estou buscando sempre mais conhecimentos.
+I believe knowledge transforms, so it is very important to me to be in constant evolution and to look for projects that add value to society and can change part of the world. For this reason, I am passionate about this field.
 
-Gosto muito da área de BackEnd, Dados e IA essas são as áreas que atualmente estudo e busco sempre melhorar para me desenvolver como Profissional e como Pessoa também. 
+I hope that if you've reached this far you are interested in my profile.
 
-Acredito que o conhecimento transforma por isso pra mim é muito importante estar em constante evolução e busca por projetos que agregem valor a sociedade e possa mudar uma parte do mundo. Graças a Programação posso fazer tudo o que eu tenho vontade
-por esse motivo essa área me encanta tanto. 
-
-Espero que se você chegou até aqui tenha se interessado pelo meu perfil fique a vontade para ver os repositórios e fazer Pull Requests e dar novas sugestões aos projetos.
-
-É uma prazer te ter aqui 😁💻!
-
+It's a pleasure to have you here 😁💻!
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Rhyan121121&show_icons=true&theme=dracula)](https://github.com/Rhyan121121)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rhyan121121&show_icons=true&theme=dracula)](https://github.com/Rhyan121121)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhyan121121&layout=compact&theme=dracula)](https://github.com/Rhyan121121)
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
-Linguagens e FrameWorks:
+## 🛠️ Technologies & Tools
+Languages and Frameworks:
 
-[![Linguaguens,FrameWorks](https://skillicons.dev/icons?i=py,git,github,flask,go)](https://skillicons.dev)
+[![Languages and Frameworks](https://skillicons.dev/icons?i=py,flask,go)](https://skillicons.dev)
 
-Sistemas Operacionais: 
+Operating Systems:
 
-[![Sistemas Operacionais](https://skillicons.dev/icons?i=linux,mint,arch,windows)](https://skillicons.dev)
+[![Operating Systems](https://skillicons.dev/icons?i=linux,mint,arch)](https://skillicons.dev)
 
-Versionamento de código:
+Version control:
 
-[![Versionamento de codigo](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+[![Version Control](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
+IDEs:
+
+[![IDEs](https://skillicons.dev/icons?i=vscode,pycharm,idea)](https://skillicons.dev)
+
 
 ---
 
-## 🔗 Conecte-se Comigo
+## What you'll find here
+- Personal projects and experiments
+- Small utilities and learning exercises
+
+## Contributions & Collaboration
+If you'd like to collaborate or have suggestions, feel free to open an issue or create a pull request. I'm happy to review contributions and learn from feedback.
+
+---
+
+## 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rhyan-dos-anjos-andrade/)  
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhyanaa1211@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhyanaa1211@gmail.com)
 
 ---
-
-<p align="center">
-  <a href="README_Eng.md">Read in English</a>
-</p>
