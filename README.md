@@ -6,7 +6,7 @@
 
 Nice to meet you — I'm Rhyan!
 
-I started studying programming in 2024, and I am currently enrolled in the Systems Analysis and Development program at Fatec Araraquara. My main interests are Backend, Data, and AI — these are the areas I study and continually work to improve in order to grow both professionally and personally.
+I started studying programming in 2024, and I am currently enrolled in the Systems Analysis and Development program at Fatec Araraquara. My main interests are Backend, Data, AI and IoT — these are the areas I study and continually work to improve in order to grow both professionally and personally.
 
 I believe knowledge transforms, so it is very important to me to be in constant evolution and to look for projects that add value to society and can change part of the world. For this reason, I am passionate about this field.
 
