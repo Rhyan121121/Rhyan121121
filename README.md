@@ -19,7 +19,7 @@ It's a pleasure to have you here 😁💻!
 ## 🛠️ Technologies & Tools
 Languages and Frameworks:
 
-[![Languages and Frameworks](https://skillicons.dev/icons?i=py,flask,go)](https://skillicons.dev)
+[![Languages and Frameworks](https://skillicons.dev/icons?i=py,java)](https://skillicons.dev)
 
 Operating Systems:
 
