@@ -16,14 +16,6 @@ It's a pleasure to have you here 😁💻!
 
 ---
 
-## 📊 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rhyan121121&show_icons=true&theme=dracula)](https://github.com/Rhyan121121)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhyan121121&layout=compact&theme=dracula)](https://github.com/Rhyan121121)
-
----
-
 ## 🛠️ Technologies & Tools
 Languages and Frameworks:
 
