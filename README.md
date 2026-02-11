@@ -33,13 +33,7 @@ IDEs:
 
 [![IDEs](https://skillicons.dev/icons?i=vscode,pycharm,idea)](https://skillicons.dev)
 
-
 ---
-
-## What you'll find here
-- Personal projects and experiments
-- Small utilities and learning exercises
-
 ## Contributions & Collaboration
 If you'd like to collaborate or have suggestions, feel free to open an issue or create a pull request. I'm happy to review contributions and learn from feedback.
 
