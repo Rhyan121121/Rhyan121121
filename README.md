@@ -19,7 +19,7 @@ It's a pleasure to have you here 😁💻!
 ## 🛠️ Technologies & Tools
 Languages and Frameworks:
 
-[![Languages and Frameworks](https://skillicons.dev/icons?i=cs,java,py,c,c++)](https://skillicons.dev)
+[![Languages and Frameworks](https://skillicons.dev/icons?i=cs,java,py,c,cpp)](https://skillicons.dev)
 
 Operating Systems:
 
@@ -27,11 +27,11 @@ Operating Systems:
 
 Version control:
 
-[![Version Control](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+[![Version Control](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
 
 IDEs:
 
-[![IDEs](https://skillicons.dev/icons?i=vscode,pycharm,idea)](https://skillicons.dev)
+[![IDEs](https://skillicons.dev/icons?i=vscode,nvim,zed,pycharm,idea)](https://skillicons.dev)
 
 ---
 ## Contributions & Collaboration
