@@ -31,7 +31,7 @@ Version control:
 
 IDEs:
 
-[![IDEs](https://skillicons.dev/icons?i=vscode,nvim,zed,pycharm,idea)](https://skillicons.dev)
+[![IDEs](https://skillicons.dev/icons?i=vscode,neovim,zed,pycharm,idea)](https://skillicons.dev)
 
 ---
 ## Contributions & Collaboration
