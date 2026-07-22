@@ -19,7 +19,7 @@ It's a pleasure to have you here 😁💻!
 ## 🛠️ Technologies & Tools
 Languages and Frameworks:
 
-[![Languages and Frameworks](https://skillicons.dev/icons?i=cs,java,py,c,cpp,rust,go)](https://skillicons.dev)
+[![Languages and Frameworks](https://skillicons.dev/icons?i=cs,java,py,cpp,rust,go)](https://skillicons.dev)
 
 Operating Systems:
 
